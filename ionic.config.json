@@ -1,0 +1,7 @@
+{
+  "name": "apiSismetro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
